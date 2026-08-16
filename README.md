@@ -1,42 +1,39 @@
-# Amazon Sales Analysis Dashboard
+# Zomato Sales Analysis Dashboard
 
-## Project Overview
+## 📊 Project Overview
 
-This project analyzes Amazon sales data to understand sales performance, order trends, product categories, and regional sales patterns. An interactive Power BI dashboard was created to present the key insights clearly.
+This project presents an interactive Zomato Sales Analysis Dashboard created using Power BI. The dashboard analyzes sales data to understand overall performance, customer behaviour, food preferences, and sales trends.
 
-## Dashboard
+## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](amazon-sales-dashboard.png)
+![Zomato Sales Analysis Dashboard](zomato-sales-dashboard.png)
 
-## Live Dashboard
+## 🔗 Live Dashboard
 
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMxYWEyOTItYTVlNy00MzE2LWFlOTQtOWY0YjdmMDFjODljIiwidCI6ImJhYWVjMWEwLTM5YjUtNDk2Mi1hOWM1LWMwN2VhY2ZiMzM2MCJ9)
 
-## Tools Used
+## 🛠️ Tool Used
 
 - Power BI
-- MySQL
-- SQL
-- Microsoft Excel
 
-## Key Analysis
+## 📈 Key Insights
 
 - Analyzed overall sales performance
-- Identified sales trends and patterns
-- Analyzed product/category performance
-- Examined order status and fulfilment
-- Analyzed sales across different locations
-- Created interactive visualizations for easier interpretation
+- Compared vegetarian and non-vegetarian sales
+- Analyzed customer ratings
+- Identified sales trends over time
+- Compared sales performance across different cities
+- Created interactive visualizations for easy data interpretation
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
-- Data Cleaning
 - Data Analysis
-- SQL
 - Data Visualization
 - Dashboard Development
+- Data Cleaning
 - Business Insights
+- Power BI
 
-## Author
+## 👤 Author
 
 Santhosh
